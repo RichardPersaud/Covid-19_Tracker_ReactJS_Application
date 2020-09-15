@@ -1,0 +1,28 @@
+.header{
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3vw;
+    text-shadow: 1px 1px 10px blue;
+}
+
+
+.container{
+    margin: 50px 0;
+}
+
+.card{
+    margin: 10px 2% !important;
+}
+
+.infected {
+    border-bottom: 10px solid rgba(0,0,255,0.5);
+}
+
+.recovered {
+    border-bottom: 10px solid rgba(0,255,0,0.5);
+}
+
+.deaths {
+    border-bottom: 10px solid rgba(255,0,0,0.5);
+}
